@@ -9,6 +9,7 @@
 
 // output.innerText = "You have " + ptoInDays + " Days of PTO. Enjoy";
 
+//ZERO BASED INDEX
 
 //methods that only return a single elemnt node.
 //Getelementbyid()
